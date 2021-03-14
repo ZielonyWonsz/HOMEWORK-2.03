@@ -1,0 +1,11 @@
+package autko;
+
+public class colour
+{
+    String colour;
+    public colour(String colour)
+
+    {
+        this.colour = colour;
+    }
+}
