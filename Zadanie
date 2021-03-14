@@ -1,0 +1,10 @@
+package autko;
+
+public class Zadanie
+{
+    public static void main(String[] args)
+    {
+        Vehicle pojazd = new Vehicle (" Audi ", new Engine(" V10 ") , new Size( 9 ) , new Colour(" Granatowy "));
+        System.out.pritln(pojazd);
+    }
+}
